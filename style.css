@@ -1,0 +1,35 @@
+body{background-color: red;}
+img{
+    display: block;
+    margin: auto;
+    width: 400px;
+}
+
+p{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+ol{
+    color: whites;
+}
+
+.OQUE{
+    text-align: center;
+    font-size: 75px;
+    margin: 50px;
+}
+
+.como{
+    text-align: center;
+}
+
+.vasos{
+    text-align: center;
+}
+title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

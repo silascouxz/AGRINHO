@@ -1,0 +1,48 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #338f0c;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.content {
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #338f0c;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.quem {
+    max-width:200px;
+    max-height:150px;
+    width: 50px;
+    height: 40px;
+}
